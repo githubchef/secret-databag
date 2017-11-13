@@ -1,0 +1,12 @@
+{
+  "id": "rwettstein",
+  "uid": "1000",
+  "state": "active",
+  "group": "wheel",
+  "comment": "Roland Wettstein",
+  "ingroups": "wheel",
+  "user_type": "person",
+  "ssh_public_keys": [
+      "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC2eYZkwOySU0u8MIbHadSUpwzW+NG5MNjo7adcWh0Zj0X3bP5E/cr2kxH4y5zIBabksfOX/MFKk1VhMSvDYaLKBLWdnrviLEO4i+QspMeIpPeWMrtOUPVkMibNiRLp5FW3bBV6VLmJtcbVdH5wf7G7IilTjf0ogMElTIvtaJXPP90RtIYBFieSpMyb75nw9dNpBJ1GLg3D6VnYz1lR4byXreJwdVRgSJraBed4nsESPdCZY0ANqxIixF0csqXR431aaOqe7ktZwgjYL0E2rpz6SH6YadSRDMFMXNpqAN2R5v+FPRg0vSCjCvZ/TwFSYrgxTDA8wW0xWLw71wcps04vZqOh/HZGRTwiu4m5el6y7fvzurhTDidl3GSmqobWRP6AGm2Zi3ZE8uG9VrkR26U73CPB7KTKQjB+YPwbxns/dJyxa4RVOLGFqiYTedTA9aFqWCtCjap+K3qY05iXyh2x2haJd3jlLlLvYY4kws7OEnqYLv62cYISHDsqiJ4T759xQRVJZG/ajnK6Q19rzW7zDAVYprf0ghbWD4/lANf9W1899EWThH0BkAUB+bYaR6nRea8fWCK1s/UIp7MZy1vB5DyEikcLkfsFQU6U2Epcg0ZycuQidjQjLwnwdaXMJj6OTIMYs5pEs5cbClo5rwGMGhS6IZqhP0+sN0k8ZyZtdw== loaner@MacBook-Pro.gateway"
+  ]
+}
